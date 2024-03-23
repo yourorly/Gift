@@ -7,11 +7,11 @@ body{
     border-radius: 3in;
     padding: 100px;
     color: white;
-    margin: 40px;
+    margin: 5px;
 }
 
 .message {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .lit {
